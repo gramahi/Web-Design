@@ -1,2 +1,2 @@
-# Web-Design-Challenge
- 
+# Web-Design Applications
+Weather Visualizations and Data Analysis Modeling
